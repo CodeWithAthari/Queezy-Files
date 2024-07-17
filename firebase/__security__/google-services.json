@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880229337825",
+    "project_id": "queezy-yt",
+    "storage_bucket": "queezy-yt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880229337825:android:27d16d08e6144684c885a0",
+        "android_client_info": {
+          "package_name": "com.devatrii.queezyyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDmotmmM1nvlAvxwdr3_jzzMPZDcSMcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
